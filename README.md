@@ -1,1 +1,20 @@
-# Filosofia-1
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+<meta charset="UTF-8">
+<title> nome do filosofo </title>
+<link rel="stylesheet" href="style.css"
+</head>b> filosofo</b>
+<body>
+
+
+<h1 id="titulo">Platão</h1>
+<h2 id="subtitulo"></h2>
+<img src="im.webp" alt="imagem"
+<p class="texto principal">vida do filosofo </p>
+<p class="texto secundario">frases </p>
+</body>
+
+</html>
